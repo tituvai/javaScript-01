@@ -100,21 +100,20 @@ console.log("amar nam" + " " + title + "."+ " " + "amar age" + " "+ age)
 
 let namta = 2
 let final = namta + " " + "x" + " " + 1 + " " + "=" + " " + namta
-
-
-
 let two = 2 + " " + "x" + " " + 2 + " " + "=" + " " + 4
-let three = namta + " " + "x" + " " + 1 + " " + "=" + " " + 6
-let five = namta + " " + "x" + " " + 1 + " " + "=" + " " + 8
-let six = namta + " " + "x" + " " + 1 + " " + "=" + " " + 10
-let seven = namta + " " + "x" + " " + 1 + " " + "=" + " " + 12
-let eight = namta + " " + "x" + " " + 1 + " " + "=" + " " + 16
-let nine = namta + " " + "x" + " " + 1 + " " + "=" + " " + 18
-let ten = namta + " " + "x" + " " + 1 + " " + "=" + " " + 20
+let three = namta + " " + "x" + " " + 3 + " " + "=" + " " + 6
+let four = namta + " " + "x" + " " + 4 + " " + "=" + " " + 8
+let five = namta + " " + "x" + " " + 5 + " " + "=" + " " + 10
+let six = namta + " " + "x" + " " + 6 + " " + "=" + " " + 12
+let seven = namta + " " + "x" + " " + 7 + " " + "=" + " " + 14
+let eight = namta + " " + "x" + " " + 8 + " " + "=" + " " + 16
+let nine = namta + " " + "x" + " " + 9 + " " + "=" + " " + 18
+let ten = namta + " " + "x" + " " + 10 + " " + "=" + " " + 20
 
 console.log(final)
 console.log(two)
 console.log(three)
+console.log(four)
 console.log(five)
 console.log(six)
 console.log(seven)
